@@ -11,7 +11,7 @@ const App = () => {
     return (
         <div className="App">
             <header className="App-header">
-                <ButtonGroup variant="contained" color="primary">
+                <ButtonGroup variant="contained" color="secondary">
                     <Button startIcon={<SaveIcon />}>
                         Welcome to ReactJS
                     </Button>
